@@ -35,6 +35,7 @@ Enter the second number:
 5
 
 The result is: 10 * 5 = 50.0
+
 perform another calculation?(y/n):
 n
 calculation done
